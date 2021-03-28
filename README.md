@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning many things.
 - 📫 How to reach me: nyancatda@outlook.com
 - 😄 Pronouns: Dadada
-- 
 <!--
 Here are some ideas to get you started:
 
