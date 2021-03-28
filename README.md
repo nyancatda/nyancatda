@@ -1,8 +1,12 @@
-### Hi there 👋
+<img align="left" src="https://metrics.lecoq.io/nyancatda" />
 
+ ### Hi there 👋
+
+- 🌱 I’m currently learning many things.
+- 📫 How to reach me: nyancatda@outlook.com
+- 😄 Pronouns: Dadada
+- 
 <!--
-**nyancatda/nyancatda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
