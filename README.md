@@ -4,7 +4,6 @@
 
 - 🌱 做好自己，尽力而为
 - 📫 How to reach me: nyancatda@outlook.com
-- 😄 Pronouns: Dadada
 - ✈ https://t.me/NyanCatda
 <!--
 Here are some ideas to get you started:
