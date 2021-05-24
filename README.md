@@ -2,7 +2,7 @@
 
  ### Hi there 👋
 
-- 🌱 做好自己，尽力而为
+- 🌱 正在努力学习PHP和Python
 - 📫 How to reach me: nyancatda@outlook.com
 - ✈ https://t.me/NyanCatda
 <!--
