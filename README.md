@@ -5,7 +5,7 @@
 
 - 🌱 正在努力学习Python和Golang
 - 📫 How to reach me: nyancatda@outlook.com
-- ✈ https://t.me/NyanCatda
+- ✈ https://t.me/nyancatda
 <!--
 Here are some ideas to get you started:
 
